@@ -6,4 +6,4 @@
 
 <p>This OOP solution required the use of inheritance, ENUMs as well as full JUnit testing.</p>
 
-<p>A driver class AircraftSearch would also be required to facilited user searches - using parameterised methods.</p>
+<p>A driver class AircraftSearch would also be required to facilite user searches - using parameterised methods.</p>
